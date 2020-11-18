@@ -1,0 +1,12 @@
+nav {
+    font-size: 20px;
+}
+
+header {
+    position: relative;
+}
+
+footer {
+    width: 100%;
+    bottom: 0;
+}
