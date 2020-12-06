@@ -1,6 +1,6 @@
-# Sitio Web de Robotica
+# Sitio Web de Robótica
 
-** Este Sitio Web esta abocado con fines educativos y sin fines de lucro para aquellas personas que
+**Este Sitio Web esta abocado con fines educativos y sin fines de lucro para aquellas personas que
 deseen adentrarse al mundo de la Robótica o que ya tengan conocimientos**
 
 | Tecnologías | Versión |
