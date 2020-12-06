@@ -3,6 +3,8 @@
 **Este Sitio Web esta abocado con fines educativos y sin fines de lucro para aquellas personas que
 deseen adentrarse al mundo de la Robótica o que ya tengan conocimientos**
 
+</br>
+
 | Tecnologías | Versión |
 | ------------- | ------------- |
 | HTML |   5 |
