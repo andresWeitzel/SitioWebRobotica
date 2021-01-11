@@ -11,7 +11,7 @@ deseen adentrarse al mundo de la Robótica o que ya tengan conocimientos**
 
 ## Vista Inicio de Aplicación
 
-![Index app](https://github.com/andresWeitzel/Graphics/tree/main/Proyectos/PaginaRobotica)
+![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png)
 
 </br>
 
