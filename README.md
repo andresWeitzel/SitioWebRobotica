@@ -9,6 +9,14 @@ deseen adentrarse al mundo de la Robótica o que ya tengan conocimientos**
 
 </br>
 
+## Vista Inicio de Aplicación
+
+![Index app](https://github.com/andresWeitzel/Graphics/tree/main/Proyectos/PaginaRobotica)
+
+</br>
+
+<hr>
+
 | Tecnologías | Versión |
 | ------------- | ------------- |
 | HTML |   5 |
