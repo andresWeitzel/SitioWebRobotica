@@ -5,13 +5,21 @@ deseen adentrarse al mundo de la Robótica o que ya tengan conocimientos**
 
 </br>
 
-**Link del Sitio: https://andresweitzel.github.io/** 
+### Link del Sitio: https://andresweitzel.github.io/
 
 </br>
 
-## Vista Inicio de Página Web
+## Vista de Inicio de la Página Web 1/3
 
 ![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png)
+
+## Vista de Inicio de la Página Web 2/3
+
+![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(326).png)
+
+## Vista de Inicio de la Página Web 3/3
+
+![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(327).png)
 
 </br>
 
