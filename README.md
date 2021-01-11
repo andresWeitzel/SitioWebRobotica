@@ -9,7 +9,7 @@ deseen adentrarse al mundo de la Robótica o que ya tengan conocimientos**
 
 </br>
 
-## Vista Inicio de Aplicación
+## Vista Inicio de Página Web
 
 ![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/PaginaRobotica/Captura%20de%20pantalla%20(318).png)
 
